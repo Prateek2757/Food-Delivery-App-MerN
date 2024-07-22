@@ -1,0 +1,134 @@
+[
+
+{
+"CategoryName": "Momo",
+  "name": " Veg Momo",
+  "img": "https://media.istockphoto.com/id/1292635321/photo/veg-steam-momo-nepalese-traditional-dish-momo-stuffed-with-vegetables-and-then-cooked-and.jpg?s=612x612&w=is&k=20&c=XArqhFUyWnTRDKNn9goydqAIG7mGcgBX43v_37WJP5M=",
+  "options": [
+      {
+          "Full": "100",
+      
+          "half": "60"
+      }
+  ],
+  "description": "Made using flour and Vegitables"
+},
+{
+"CategoryName": "Momo",
+"name": " Veg Jhol Momo",
+"img": "https://media.istockphoto.com/id/496359696/photo/dumpling-soup.jpg?s=2048x2048&w=is&k=20&c=ShM8G9zS6pAXsqtAeE1lNPx5KEXDeA1LcDjTJPHBT8s=",
+"options": [
+    {
+        "Full": "150",
+    
+        "half": "80"
+    }
+],
+"description": "Made using flour and and veg kema"
+
+},
+
+{
+    "CategoryName": "Momo",
+    "name": " Chicken Momo",
+    "img": "https://media.istockphoto.com/id/1415285731/photo/oriental-potsticker-salad.jpg?s=2048x2048&w=is&k=20&c=JVDIcmPV7UWnPtmceKk6YXfw81XsTrRHJ8eTwKvv2Fg=",
+    "options": [
+        {
+            "Full": "160",
+        
+            "half": "90"
+        }
+    ],
+    "description": "Made using flour and and chicken kema"
+    
+    },
+
+{
+    "CategoryName": "Momo",
+    "name": " Chicken jhol Momo",
+    "img": "https://th.bing.com/th/id/OIP.2EZdlrMzGoyNPR_iLOgWBAHaHa?rs=1&pid=ImgDetMain",
+    "options": [
+        {
+            "Full": "200",
+        
+            "half": "100"
+        }
+    ],
+    "description": "Made using flour and and chicken kema"
+    
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Veg Burger",
+        "img": "https://media.istockphoto.com/id/1161931223/photo/vegetarian-burger-with-chickpea-cutlet-and-vegetables-veg-concept-copy-space.jpg?s=612x612&w=is&k=20&c=R-KGr01-JYh3n-gA1thTPGRBZOKyNH0K4-AoI_nU0hE=",
+        "options": [
+            {
+                "regular": "120",
+                "medium": "200",
+                "large": "250"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+
+    {
+        "CategoryName": "Burger",
+        "name": " Chicken Burger",
+        "img": "https://media.istockphoto.com/id/652832752/photo/fried-chicken-burger.jpg?s=612x612&w=is&k=20&c=r03ypnk3rd0ulJHq1twqDUAaKobHIbKvUEDIRHk0hJY=",
+        "options": [
+            {
+                "regular": "150",
+                "medium": "230",
+                "large": "350"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+
+    {
+        "CategoryName": "Burger",
+        "name": " Crispy Chicken Burger",
+        "img": "https://media.istockphoto.com/id/521207406/photo/southern-country-fried-chicken-sandwich.jpg?s=612x612&w=is&k=20&c=I9mKugzOcnwyoc5TLQlLs-Cc2ddociLT45l8GClPonk=",
+        "options": [
+            {
+                "regular": "150",
+                "medium": "230",
+                "large": "350"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+
+     
+{
+    "CategoryName": "Chowmein",
+    "name": " Veg Chowmein",
+    "img": "https://media.istockphoto.com/id/483137365/photo/asian-chow-mein-noodles.jpg?s=612x612&w=is&k=20&c=B_Z5DvrM_AG9NFWzzaw5ji3ctGsr6jQkVliZuJ74kRY=",
+    "options": [
+        {
+            "Full": "100",
+        
+            "half": "60"
+        }
+    ],
+    "description": "Made using flour and and chicken kema"
+    
+    },
+
+    {
+        "CategoryName": "Chowmein",
+        "name": " Chicken Chowmein",
+        "img": "https://media.istockphoto.com/id/1130550051/photo/stir-fried-noodles-with-veggies.jpg?s=612x612&w=is&k=20&c=wHzLO0MY89daej4SvwCIOMPHjXoqyGzCpfDc45sJ_II=",
+        "options": [
+            {
+                "Full": "150",
+            
+                "Half": "100"
+            }
+        ],
+        "description": "Made using flour and and chicken kema"
+        
+        }
+    
+
+]
